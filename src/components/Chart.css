@@ -1,0 +1,47 @@
+.charts {
+    margin: 20px 0; /* Adds vertical spacing around the charts */
+}
+
+.chart-title {
+    text-align: center; /* Centers the title text */
+    color: #3a0606; /* Sets the title color to white for better visibility */
+    margin: 20px 0; /* Adds vertical spacing around the title */
+}
+
+.apexcharts-canvas {
+    background: #333; /* Dark background for better contrast */
+}
+
+.apexcharts-tooltip {
+    font-size: 12px; /* Font size for tooltips */
+    color: #fff; /* Sets tooltip text color to white for better visibility */
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background for tooltips */
+    border-radius: 4px; /* Rounded corners for tooltip */
+    padding: 5px; /* Padding inside the tooltip */
+}
+
+.apexcharts-datalabels {
+    font-size: 12px; /* Font size for data labels */
+    color: #6aa1cb; /* Data label text color */
+}
+
+.apexcharts-yaxis-title {
+    color: #fff; /* Change Y-axis title color to white */
+}
+
+.apexcharts-xaxis-labels {
+    color: #fff; /* Change X-axis label color to white */
+}
+
+.apexcharts-gridline {
+    stroke: rgba(255, 255, 255, 0.1); /* Light grid lines for contrast */
+}
+
+.apexcharts-legend {
+    font-size: 12px; /* Font size for legend items */
+    color: #fff; /* Legend text color */
+}
+
+.apexcharts-title {
+    color: #fff; /* Change chart title color to white */
+}
